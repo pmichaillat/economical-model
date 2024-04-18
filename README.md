@@ -4,7 +4,7 @@ This repository contains the AD-AS diagrams from the paper "An Economical Busine
 
 ## Paper webpage
 
-The paper is available at https://pascalmichaillat.org/7/. The tightness-output diagrams appear in figures 2–8.
+The paper is available at https://pascalmichaillat.org/7/. The AD-AS diagrams appear in figures 2–8.
 
 ## Diagram descriptions
 
