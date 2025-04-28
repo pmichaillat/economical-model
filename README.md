@@ -10,14 +10,14 @@ The paper is available at https://pascalmichaillat.org/7/. The AD-AS diagrams ap
 
 The AD-AS diagrams are drawn by hand using Keynote on Mac, and then exported to PDF.
 
-+ `figure2.key`, `figure2.pdf` – Figure 2: solution of the model
-+ `figure3.key`, `figure3.pdf` – Figure 3: response to a negative AD shock 
-+ `figure4.key`, `figure4.pdf` – Figure 4: response to a negative AS shock 
-+ `figure5.key`, `figure5.pdf` – Figure 5: response to a decrease in nominal interest rate 
-+ `figure6.key`, `figure6.pdf` – Figure 6: response to an increase in wealth tax rate 
-+ `figure7.key`, `figure7.pdf` – Figure 7: optimal monetary policy restores efficient unemployment when the unemployment gap is small
-+ `figure8.key`, `figure8.pdf` – Figure 8: optimal monetary policy reaches the zero lower bound when the unemployment gap is large  
++ `figure2.key`, `figure2.pdf` - Figure 2: solution of the model
++ `figure3.key`, `figure3.pdf` - Figure 3: response to a negative AD shock 
++ `figure4.key`, `figure4.pdf` - Figure 4: response to a negative AS shock 
++ `figure5.key`, `figure5.pdf` - Figure 5: response to a decrease in nominal interest rate 
++ `figure6.key`, `figure6.pdf` - Figure 6: response to an increase in wealth tax rate 
++ `figure7.key`, `figure7.pdf` - Figure 7: optimal monetary policy restores efficient unemployment when the unemployment gap is small
++ `figure8.key`, `figure8.pdf` - Figure 8: optimal monetary policy reaches the zero lower bound when the unemployment gap is large  
 
 ## License
 
-The content of this repository was created by Pascal Michaillat and Emmanuel Saez and is licensed under the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+This repository is licensed under the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
